@@ -257,13 +257,13 @@ footer{
         border-radius: 7px;
         width: 330px;
         height: 482px;
-       padding:15px;
-       margin-left: 0 auto;
-        box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.1)  
+        padding: 15px;
+        margin: 0px;
+        box-shadow: 0 2px 40px 0 rgb(0 0 0 / 10%);
     }
 
+    
     .social-menu li {
-
         display:inline;
         margin-left: 10px;
         padding: 18px;
